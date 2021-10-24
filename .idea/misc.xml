@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/RIFAH A KHAN/Downloads/SplashScreen/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/SplashScreen/app/src/main/res/layout/activity_create_account.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/SplashScreen/app/src/main/res/layout/activity_create_account2ndclass.xml" value="0.1" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/SplashScreen/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/SplashScreen/app/src/main/res/layout/activity_next_screen.xml" value="0.16259057971014493" />
         <entry key="..\:/Users/RIFAH A KHAN/Downloads/SplashScreen/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
       </map>
     </option>

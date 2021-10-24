@@ -5,23 +5,16 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 
-class MainActivity : AppCompatActivity() {
+class CreateAccount2ndclass : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
+        setContentView(R.layout.activity_create_account2ndclass)
     }
-
-
     fun callNextCreateAccountScreen(view: View) {
-        startActivity(Intent(this@MainActivity,CreateAccount2ndclass::class.java))
 
     }
 
-    fun callNextScreen(view: View) {
-        startActivity(Intent(this@MainActivity,NextScreen::class.java))
-
+    fun callFirstScreen(view: View){
+        startActivity(Intent(this@CreateAccount2ndclass,MainActivity::class.java))
     }
-
-
 }

@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SplashScreen">
         <activity
+            android:name=".NextScreen"
+            android:exported="true" />
+        <activity
+            android:name=".CreateAccount2ndclass"
+            android:exported="true" />
+        <activity
+            android:name=".CreateAccount"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity

@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Splash Screen</string>
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>ing>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_mailid">Email</string>
+    <string name="enter_phone_number">Phone Number(+91)</string>
+    <string name="nxt_button">Next</string>
+    <string name="create_account">Create Account</string>
+    <string name="back_button">Back</string>
+    <string name="create_button">Create</string>
+    <string name="enter_ph_number">Phone Number</string>
 </resources>
